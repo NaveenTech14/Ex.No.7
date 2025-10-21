@@ -1,7 +1,7 @@
 [Personal_Productivity_Assistant_Output (3).pdf](https://github.com/user-attachments/files/23021666/Personal_Productivity_Assistant_Output.3.pdf)# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
+# Date:19.10.2025
+# Register no. 25014622
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 #AI Tools Required: 
